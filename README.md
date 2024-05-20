@@ -1,4 +1,4 @@
-# NASA + 747 Glider Design
+# NASA Orbiter + 747 Glider Design
 
 This dialoge with GPT4 contains instructions for building a balsa wood glider in the shape of a NASA orbiter, with additional details for how to construct another glider in the shape a 747 airjet, which would carry the orbiter attached by neodymium magnets.
 
